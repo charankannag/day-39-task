@@ -1,0 +1,9 @@
+steps:
+1.open a new folder
+2.open a new file
+3.create a platform for node js
+4.install node package manager 
+5.install all necessary items regarding node js
+6.create components as much needed for UI.
+7.use different type of hooks if needed 
+8.import and export all type of operations
